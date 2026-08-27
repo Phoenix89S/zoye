@@ -1,0 +1,143 @@
+#EXTM3U
+#EXTINF:-1, ЮУрГУ-ТВ
+https://tvrlive.susu.ru/1800k/playlist.m3u8
+#EXTINF:-1, ОСН
+https://osnmedia.servicecdn.ru/streams/17603_88089/1080n/index.m3u8
+#EXTINF:-1, Эхо ТВ 24
+http://stream.novouralsk-news.ru/echotv24/echotv24-576p.m3u8
+#EXTINF:-1, TV Pro
+http://rtmp.tvpro-online.ru/hls/ch1.m3u8
+#EXTINF:-1, ТРК Круг
+http://cdn1.live-tv.od.ua:8081/krugod/krugod-abr/krugod/krugod/playlist.m3u8
+#EXTINF:-1, Репортер
+http://cdn1.live-tv.od.ua:8081/31chod/31chod-abr/31chod/31chod/playlist.m3u8
+#EXTINF:-1, Раменское ТВ
+https://e10-ll.facecast.net/rtv/0.m3u8
+#EXTINF:-1, Белгород 24
+https://belnovosti.cdn.easyhoster.ru:8443/stream.m3u8
+#EXTINF:-1, 12 КАНАЛ (ОМСК)
+https://12channel.bonus-tv.ru/cdn/12channel/playlist_hdhigh.m3u8
+#EXTINF:-1, Univer TV HD
+https://cdn.universmotri.ru/live/smil:univer.smil/chunklist_w911267907_b3628000_slru.m3u8
+#EXTINF:-1, Sochi Live HD
+http://serv30.vintera.tv:8081/sochi/sochi_stream/chunks.m3u8
+#EXTINF:-1, Tv Brics
+http://brics.bonus-tv.ru/cdn/brics/russian/tracks-v1a1/mono.m3u8
+#EXTINF:-1, РБК
+http://online.video.rbc.ru/online2/rbctv_1080p/index.m3u8
+#EXTINF:-1, ТРК 555 HD
+http://trk555.tv:8888/live
+#EXTINF:-1, БСТ
+https://bsttv.bonus-tv.ru/cdn/bst/playlist_sdhigh.m3u8
+#EXTINF:-1, Салям
+http://bsttv.bonus-tv.ru/cdn/salyam/playlist.m3u8
+#EXTINF:-1, TBN BALTIA
+http://dc.tbnbaltia.eu:8088/dvr/tracks-v1a1/rewind-21600.m3u8
+#EXTINF:-1, Первый канал HD
+https://edge4.1internet.tv/dash-live2/streams/1tv-dvr/1tvdash.mpd
+#EXTINF:-1, Неизвестная Россия
+https://cdn.ntv.ru/unknown_russia/tracks-v1a1/playlist.m3u8
+#EXTINF:-1, НТВ HD
+https://cdn.ntv.ru/ntv-msk_hd/tracks-v1a1/playlist.m3u8
+#EXTINF:-1, НТВ HD
+https://cdn.ntv.ru/ntv0_hd/tracks-v1a1/playlist.m3u8
+#EXTINF:-1, НТВ +1
+https://cdn.ntv.ru/ntv1/tracks-v1a1/playlist.m3u8
+#EXTINF:-1, НТВ +2
+https://cdn.ntv.ru/ntv2/tracks-v1a1/playlist.m3u8
+#EXTINF:-1, НТВ +4
+https://cdn.ntv.ru/ntv4/tracks-v1a1/playlist.m3u8
+#EXTINF:-1, НТВ +7
+https://cdn.ntv.ru/ntv7/tracks-v1a1/playlist.m3u8
+#EXTINF:-1, НТВ Хит
+https://cdn.ntv.ru/th_hit/tracks-v1a1/playlist.m3u8
+#EXTINF:-1, НТВ Сериал
+https://cdn.ntv.ru/th_serial/tracks-v1a1/playlist.m3u8
+#EXTINF:-1, НТВ Право
+https://cdn.ntv.ru/th_pravo/tracks-v1a1/playlist.m3u8
+#EXTINF:-1, НТВ Стиль
+https://cdn.ntv.ru/th_style/tracks-v1a1/playlist.m3u8
+#EXTINF:-1, Кино и сериалы
+https://live-vgtrksmotrim.cdnvideo.ru/vgtrksmotrim/smotrim-live-01.smil/tracks-v5a1/mono.m3u8
+#EXTINF:-1, С1 Сургут 86
+https://sitv.ru/hls/s86512.m3u8
+#EXTINF:-1, С1 Сургут HD
+https://sitv.ru/vgtrk/stv.m3u8
+#EXTINF:-1, Югра
+https://live-ugratv.cdnvideo.ru/ugratv/ugratv/tracks-v1a1/mono.m3u8
+#EXTINF:-1, ТОЛК
+https://live-tolknews.cdnvideo.ru/tolknews/stream/tracks-v1a1/mono.m3u8
+#EXTINF:-1, Краснодар HD
+https://live-tvkrasnodar.cdnvideo.ru/tvkrasnodar/tvkrasnodar.sdp/tracks-v1a1/mono.m3u8
+#EXTINF:-1, Алания 24
+https://hls-alaniatv.cdnvideo.ru/alaniatv/alania1/playlist.m3u8
+#EXTINF:-1, Запад 24 HD
+http://live-vestikaliningrad.cdnvideo.ru/vestikaliningrad/vestikaliningrad.sdp/playlist.m3u8
+#EXTINF:-1, Архыз 24
+http://live.mediacdn.ru/sr1/arhis24/playlist.m3u8
+#EXTINF:-1, Радость Моя
+https://radm.mediacdn.ru/cdn/radost/playlist_sdhigh.m3u8
+#EXTINF:-1, РГВК Дагестан
+https://dagestan.mediacdn.ru/cdn/dagestan/playlist_hdhigh.m3u8
+#EXTINF:-1, Грозный
+https://cdn-evacoder-tv.facecast.io/evacoder_hls_hi/UUMLQVAYVlZyH14GRENQVV0G/2/1.m3u8
+#EXTINF:-1, 360°
+https://edge-tv-ll.facecast.io/evacoder_hls_hi/CkxfR1xNUAJwTgtXTBZTAJli/0.m3u8
+#EXTINF:-1, 360 Новости
+https://edge-tv-ll.facecast.io/evacoder_hls_hi/UBZfFgtKB1JwTwoDERNQVGGs/0.m3u8
+#EXTINF:-1, Алмазный край
+https://stream.almaz-media.tv:8080/hls/720.m3u8
+#EXTINF:-1, ПЕРВЫЙ ТУЛЬСКИЙ
+http://5.164.24.83/tula/1tv_hi/index.m3u8
+#EXTINF:-1, Тверской Проспект Регион
+http://stream.fastlnk.ru:88/Tverskojj_prospekt/index.m3u8
+#EXTINF:-1, Щелковское ТВ
+http://stream0.tv41.ru/live.m3u8
+#EXTINF:-1, Теледом ТВ HD
+https://iam-profi.ru/hls-live/livepkgr/_definst_/liveevent/td720.m3u8
+#EXTINF:-1, Красная Линия
+https://s55766.cdn.ngenix.net/s55766-media-origin/rline_high/tracks-v1a1/mono.m3u8
+#EXTINF:-1, МТВ(Волгоград)
+https://hls-volgograd1vtv.cdnvideo.ru/volgograd1vtv/volgograd1vtv.sdp/playlist.m3u8
+#EXTINF:-1, НВК Саха HD
+https://live-saha.cdnvideo.ru/saha/saha/playlist.m3u8
+#EXTINF:-1, Евразия Орск
+https://live2-orsk.cdnvideo.ru/orsk-infochhd/infochhd/playlist.m3u8
+#EXTINF:-1, Аист ТВ
+https://live2-aisttv.cdnvideo.ru/aisttv2/aisttv.sdp/playlist.m3u8
+#EXTINF:-1, Астрахань 24
+https://streaming.astrakhan.ru/astrakhan24/tracks-v2a1/mono.m3u8
+#EXTINF:-1, Липецкое время
+http://serv25.vintera.tv:8081/liptime/liptime/chunks.m3u8
+#EXTINF:-1, Эхо ТВ
+https://live-echotv.cdnvideo.ru/echotv/echotv.sdp/playlist.m3u8
+#EXTINF:-1, Тюменское Время
+https://hls-sibinformburo.cdnvideo.ru/sibinformburo/sibinformburo.sdp/playlist.m3u8
+#EXTINF:-1, НТМ HD
+http://live-ntm13.cdnvideo.ru/ntm13/smil:ntm13.smil/playlist.m3u8
+#EXTINF:-1, Ника ТВ
+https://live-nikatv.cdnvideo.ru/nikatv/nikatv.sdp/playlist.m3u8
+#EXTINF:-1, Мир Premium HD
+http://hls.mirtv.cdnvideo.ru/mirtv-parampublish/mirtv_2500/playlist.m3u8
+#EXTINF:-1, МИР HD
+http://hls.mirtv.cdnvideo.ru/mirtv-parampublish/mirtv_2500/playlist.m3u8
+#EXTINF:-1, МИР 24 HD
+http://hls.mirtv.cdnvideo.ru/mirtv-parampublish/mir24_2500/playlist.m3u8
+#EXTINF:-1, ТВЦ
+https://tvc-hls.cdnvideo.ru/tvc-res/smil:vd9221_2.smil/playlist.m3u8
+#EXTINF:-1, Крик-ТВ
+http://hls-rictv.cdnvideo.ru/rictv/rictv-srt-stream/playlist.m3u8
+#EXTINF:-1, ННТВ
+http://live-nntv2.cdnvideo.ru/nntv2/cfd99gu0ai_nntv_tv/playlist.m3u8
+#EXTINF:-1, НТМ
+https://live-ntm13.cdnvideo.ru/ntm13/smil:ntm13.smil/playlist.m3u8
+#EXTINF:-1, РЖД ТВ
+https://hls-tva.cdnvideo.ru/tva/tvahd.sdp/playlist.m3u8
+#EXTINF:-1, МузСоюз
+https://hls-tvsoyuz.cdnvideo.ru/tvsoyuz2/muzsoyuz.6fw0-58xp-acts-esy0/playlist.m3u8
+#EXTINF:-1, TV ГУБЕРНИЯ
+https://s68149.cdn.ngenix.net/s68149-media-origin/lvs/tvgub/tracks-v1a1/mono.m3u8
+#EXTINF:-1, Наш Дом
+http://85.234.33.63/stream/c11.m3u8
+#EXTINF:-1, Хузур ТВ
+https://hls-mycdn08724960135.cdnvideo.ru/mycdn08724960135/stream1/tracks-v1a1/mono.m3u8
